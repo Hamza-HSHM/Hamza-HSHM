@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Hamza Hashim
+- 👀 I’m interested in Front-End Web Development (Angular)
+- 🌱 I’m currently learning Angular
+- 📫 How to reach me [My Email](mailto:hamzahshm98@gmail.com)
